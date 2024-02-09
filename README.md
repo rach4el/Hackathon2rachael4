@@ -1,6 +1,6 @@
 <h1> Tipsy Trivia: The Code Inquiziters Pub Quiz </h1>
 
-[View the live project here] ()
+[View the live project here] (https://github.com/ifzalmalook/Hackathon2.git)
 
 Tipsy Trivia is an interactive website game which is an entertaining general knowledge test exercise. The game is engaging, and is challenging for brain puzzles and information recall to test the audience's general knowledge ability. The site is targeted towards people who are interested in gaming and people who are curious about testing their general knowledge skills. The interactive site has a USP of user friendly design and visuals to make the game accessible to a wide audience. The interactive website is particularly engaging with its use of a game timer, a score counter and clear option choices to encourage and motivate the audience to engage and continue to practice their skills.
 
@@ -92,13 +92,15 @@ Tipsy Trivia is an interactive website game which is an entertaining general kno
 ## Design
 
 We used an image of a pub as a background to fit in with the pub quiz theme.
-We chose colour scheme of red, white and green for the home page, to contrast well with the background image
+We chose colour scheme of red, white and green for the home page, to contrast well with the background image.
 
 ### Imagery
 
 ### Colour Scheme
+A colour scheme of red, white and green was chosen to create a game that worked well visually on all platforms, to ensure all elements were visually able to contrast well with the background image.
 
 ### Typography
+Google fonts and font awesome was used to import fonts such as Open Sans, Helvetica and icons for the game page into the html section and styles.css. These were chosen as they work well together and have a simple, user friendly and clear appearance that works well on the tested screen sizes to make sure that is easy to read.
 
 ### Wireframes
 
